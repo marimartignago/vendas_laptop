@@ -1,4 +1,4 @@
-# vendas_laptop
+# vendas_laptop - WIP [work in progress]
 Dataset do kaggle: https://www.kaggle.com/datasets/kuchhbhi/latest-laptop-price-list
 
 Especificações e preços (antigo, novo) de 1000 notebooks (computador portátil)

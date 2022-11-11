@@ -1,10 +1,7 @@
-# vendas_laptop - WIP [work in progress]
+# vendas_laptop 
 Dataset do kaggle: https://www.kaggle.com/datasets/kuchhbhi/latest-laptop-price-list
 
-Especificações e preços (antigo, novo) de 1000 notebooks (computador portátil)
+O dataset trás informações sobre a venda de computadores portáteis (laptops). Há especificações e preços (atualizado e preço antigo)
 
-*Quais os fatores que afetam os preços dos computadores portáteis?*
-- marca do computador 
-- número de opções e complementos incluídos no pacote de computadores
-- a quantidade de memória 
-- a velocidade do processador 
+
+
